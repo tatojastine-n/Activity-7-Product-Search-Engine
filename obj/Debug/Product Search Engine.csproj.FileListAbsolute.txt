@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Product Search Engine\bin\Debug\Product Search Engine.exe.config
+C:\Users\HP\source\repos\Product Search Engine\bin\Debug\Product Search Engine.exe
+C:\Users\HP\source\repos\Product Search Engine\bin\Debug\Product Search Engine.pdb
+C:\Users\HP\source\repos\Product Search Engine\obj\Debug\Product Search Engine.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Product Search Engine\obj\Debug\Product Search Engine.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Product Search Engine\obj\Debug\Product Search Engine.exe
+C:\Users\HP\source\repos\Product Search Engine\obj\Debug\Product Search Engine.pdb
